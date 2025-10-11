@@ -122,6 +122,7 @@
             this.Controls.Add(this.lblusername);
             this.Name = "Form1";
             this.Text = "Đăng Nhập";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
