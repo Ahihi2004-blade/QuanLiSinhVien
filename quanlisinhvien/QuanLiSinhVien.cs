@@ -134,5 +134,37 @@ namespace quanlisinhvien
             cbgioitinh.SelectedIndex = -1;
             cbkhoa.SelectedIndex = -1;
         }
+
+        private void btntimkiem_Click(object sender, EventArgs e)
+        {
+            string tuKhoa = btntimkiem.Text.Trim().ToLower();
+
+            if (string.IsNullOrEmpty(tuKhoa))
+            {
+                dgvsinhvien.DataSource = dsSinhVien;
+                return;
+            }
+            var ketQua = dsSinhVien
+                .Where(sv => sv.MaSV.ToLower().Contains(tuKhoa)
+                          || sv.TenSV.ToLower().Contains(tuKhoa)
+                          || sv.Lop.ToLower().Contains(tuKhoa)
+                          || sv.Khoa.ToLower().Contains(tuKhoa))
+                .ToList();
+            dgvsinhvien.DataSource = null;
+            dgvsinhvien.DataSource = ketQua;
+
+            if (ketQua.Count == 0)
+            {
+                MessageBox.Show("Không tìm thấy sinh viên nào!", "Kết quả tìm kiếm", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+
+        private void btndanhsach_Click(object sender, EventArgs e)
+        {
+            dgvsinhvien.DataSource = null;
+            dgvsinhvien.DataSource = dsSinhVien;
+
+            MessageBox.Show("Đã hiển thị lại toàn bộ danh sách sinh viên!","Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }
