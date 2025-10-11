@@ -1,0 +1,13 @@
+C:\riengtu\c++\quanlisinhvien\quanlisinhvien\bin\Debug\quanlisinhvien.exe.config
+C:\riengtu\c++\quanlisinhvien\quanlisinhvien\bin\Debug\quanlisinhvien.exe
+C:\riengtu\c++\quanlisinhvien\quanlisinhvien\bin\Debug\quanlisinhvien.pdb
+C:\riengtu\c++\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.csproj.AssemblyReference.cache
+C:\riengtu\c++\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.Form1.resources
+C:\riengtu\c++\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.Properties.Resources.resources
+C:\riengtu\c++\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.csproj.GenerateResource.cache
+C:\riengtu\c++\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.csproj.CoreCompileInputs.cache
+C:\riengtu\c++\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.exe
+C:\riengtu\c++\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.pdb
+C:\riengtu\c++\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.exe.config
+C:\riengtu\c++\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.QuanLi.resources
+C:\riengtu\c++\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.QuanLiSinhVien.resources
