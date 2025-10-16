@@ -53,7 +53,7 @@
             // txtusername
             // 
             this.txtusername.Location = new System.Drawing.Point(157, 128);
-            this.txtusername.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtusername.Margin = new System.Windows.Forms.Padding(2);
             this.txtusername.Name = "txtusername";
             this.txtusername.Size = new System.Drawing.Size(155, 20);
             this.txtusername.TabIndex = 1;
@@ -73,7 +73,7 @@
             // txtpassword
             // 
             this.txtpassword.Location = new System.Drawing.Point(157, 179);
-            this.txtpassword.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtpassword.Margin = new System.Windows.Forms.Padding(2);
             this.txtpassword.Name = "txtpassword";
             this.txtpassword.Size = new System.Drawing.Size(155, 20);
             this.txtpassword.TabIndex = 2;
@@ -83,7 +83,7 @@
             this.btnsignin.BackColor = System.Drawing.SystemColors.Info;
             this.btnsignin.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnsignin.Location = new System.Drawing.Point(170, 226);
-            this.btnsignin.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnsignin.Margin = new System.Windows.Forms.Padding(2);
             this.btnsignin.Name = "btnsignin";
             this.btnsignin.Size = new System.Drawing.Size(56, 19);
             this.btnsignin.TabIndex = 2;
@@ -95,7 +95,7 @@
             // 
             this.btncancel.BackColor = System.Drawing.SystemColors.Info;
             this.btncancel.Location = new System.Drawing.Point(254, 226);
-            this.btncancel.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btncancel.Margin = new System.Windows.Forms.Padding(2);
             this.btncancel.Name = "btncancel";
             this.btncancel.Size = new System.Drawing.Size(56, 19);
             this.btncancel.TabIndex = 2;
@@ -127,7 +127,7 @@
             this.Controls.Add(this.txtusername);
             this.Controls.Add(this.lblpassword);
             this.Controls.Add(this.lblusername);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Đăng Nhập";
             this.Load += new System.EventHandler(this.Form1_Load);

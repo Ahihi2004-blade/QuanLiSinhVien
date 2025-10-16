@@ -11,3 +11,16 @@ C:\riengtu\c++\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.pdb
 C:\riengtu\c++\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.exe.config
 C:\riengtu\c++\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.QuanLi.resources
 C:\riengtu\c++\quanlisinhvien\quanlisinhvien\obj\Debug\quanlisinhvien.QuanLiSinhVien.resources
+C:\Users\Asus\Documents\QuanLiSinhVien\quanlisinhvien\bin\Debug\quanlisinhvien.exe
+C:\Users\Asus\Documents\QuanLiSinhVien\quanlisinhvien\bin\Debug\quanlisinhvien.exe.config
+C:\Users\Asus\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.Form1.resources
+C:\Users\Asus\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.Properties.Resources.resources
+C:\Users\Asus\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.QuanLi.resources
+C:\Users\Asus\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.QuanLiSinhVien.resources
+C:\Users\Asus\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.exe
+C:\Users\Asus\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.pdb
+C:\Users\Asus\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.exe.config
+C:\Users\Asus\Documents\QuanLiSinhVien\quanlisinhvien\bin\Debug\quanlisinhvien.pdb
