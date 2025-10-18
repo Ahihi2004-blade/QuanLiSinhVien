@@ -36,18 +36,26 @@ namespace quanlisinhvien
             cbkhoa.Items.Add("Luật");
             cbkhoa.Items.Add("NNA");
             dgvsinhvien.DataSource = dsSinhVien;
+            dgvsinhvien.AllowUserToAddRows = false; // KHÔNG cho tự thêm dòng trống
+            dgvsinhvien.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
         }
         private void btnthem_Click(object sender, EventArgs e)
-        {
-            // Kiểm tra nhập liệu
+        { /// duy da sua pham them
+            // Kiểm tra nhập đủ dữ liệu
             if (string.IsNullOrWhiteSpace(txtmasinhvien.Text) ||
-                string.IsNullOrWhiteSpace(txttensinhvien.Text))
+                string.IsNullOrWhiteSpace(txttensinhvien.Text) ||
+                string.IsNullOrWhiteSpace(txtnamsinh.Text) ||
+                string.IsNullOrWhiteSpace(txtsdt.Text) ||
+                string.IsNullOrWhiteSpace(txtdiachi.Text) ||
+                string.IsNullOrWhiteSpace(txtlop.Text) ||
+                string.IsNullOrWhiteSpace(cbgioitinh.Text) ||
+                string.IsNullOrWhiteSpace(cbkhoa.Text))
             {
-                MessageBox.Show("Vui lòng nhập đầy đủ thông tin!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Vui lòng nhập đầy đủ thông tin sinh viên!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
-            // Kiểm tra trùng mã
+            // Kiểm tra trùng mã sinh viên
             foreach (var item in dsSinhVien)
             {
                 if (item.MaSV == txtmasinhvien.Text)
@@ -57,7 +65,6 @@ namespace quanlisinhvien
                 }
             }
 
-            // Thêm sinh viên mới
             dsSinhVien.Add(new SinhVien
             {
                 MaSV = txtmasinhvien.Text,
@@ -70,14 +77,33 @@ namespace quanlisinhvien
                 Khoa = cbkhoa.Text
             });
 
+            MessageBox.Show("Đã thêm sinh viên mới!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
             XoaTrang();
         }
 
+
         private void btnsua_Click(object sender, EventArgs e)
         {
-            if (dgvsinhvien.CurrentRow == null) return;
+            if (dgvsinhvien.CurrentRow == null)
+            {
+                MessageBox.Show("Vui lòng chọn sinh viên cần sửa!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
 
-            // Lấy sinh viên đang chọn
+            if (string.IsNullOrWhiteSpace(txtmasinhvien.Text) ||
+                string.IsNullOrWhiteSpace(txttensinhvien.Text) ||
+                string.IsNullOrWhiteSpace(txtnamsinh.Text) ||
+                string.IsNullOrWhiteSpace(txtsdt.Text) ||
+                string.IsNullOrWhiteSpace(txtdiachi.Text) ||
+                string.IsNullOrWhiteSpace(txtlop.Text) ||
+                string.IsNullOrWhiteSpace(cbgioitinh.Text) ||
+                string.IsNullOrWhiteSpace(cbkhoa.Text))
+            {
+                MessageBox.Show("Vui lòng nhập đầy đủ thông tin để sửa!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            //  Lấy sinh viên đang chọn và cập nhật
             SinhVien sv = dgvsinhvien.CurrentRow.DataBoundItem as SinhVien;
             if (sv != null)
             {
@@ -90,24 +116,30 @@ namespace quanlisinhvien
                 sv.Lop = txtlop.Text;
                 sv.Khoa = cbkhoa.Text;
 
-                // Làm mới giao diện
                 dgvsinhvien.Refresh();
-                MessageBox.Show("Cập nhật thành công!", "Thông báo");
+                MessageBox.Show("Cập nhật thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
-
         private void btnxoa_Click(object sender, EventArgs e)
         {
-            if (dgvsinhvien.CurrentRow == null) return;
+            if (dgvsinhvien.CurrentRow == null)
+            {
+                MessageBox.Show("Vui lòng chọn sinh viên cần xóa!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
 
             SinhVien sv = dgvsinhvien.CurrentRow.DataBoundItem as SinhVien;
             if (sv != null)
             {
-                dsSinhVien.Remove(sv);
-                XoaTrang();
+                DialogResult result = MessageBox.Show("Bạn có chắc muốn xóa sinh viên này?", "Xác nhận", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                if (result == DialogResult.Yes)
+                {
+                    dsSinhVien.Remove(sv);
+                    XoaTrang();
+                    MessageBox.Show("Đã xóa sinh viên!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
             }
         }
-
         private void dgvsinhvien_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex >= 0)

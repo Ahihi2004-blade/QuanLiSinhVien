@@ -15,7 +15,6 @@ C:\Users\acer\Documents\QuanLiSinhVien\quanlisinhvien\bin\Debug\quanlisinhvien.e
 C:\Users\acer\Documents\QuanLiSinhVien\quanlisinhvien\bin\Debug\quanlisinhvien.exe
 C:\Users\acer\Documents\QuanLiSinhVien\quanlisinhvien\bin\Debug\quanlisinhvien.pdb
 C:\Users\acer\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.csproj.AssemblyReference.cache
-C:\Users\acer\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.exe.config
 C:\Users\acer\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.Form1.resources
 C:\Users\acer\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.Properties.Resources.resources
 C:\Users\acer\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.QuanLi.resources
@@ -24,3 +23,4 @@ C:\Users\acer\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.c
 C:\Users\acer\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.csproj.CoreCompileInputs.cache
 C:\Users\acer\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.exe
 C:\Users\acer\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.pdb
+C:\Users\acer\Documents\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.exe.config
