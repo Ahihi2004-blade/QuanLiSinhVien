@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|c:\\users\\asus\\documents\\quanlisinhvien\\quanlisinhvien\\quanlisinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\quanlisinhvien\\quanlisinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\quanlisinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\quanlisinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\quanlisinhvien\\quanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\quanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|c:\\users\\asus\\documents\\quanlisinhvien\\quanlisinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\quanlisinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\quanlisinhvien\\quanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\quanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,21 +40,22 @@
               "RelativeDocumentMoniker": "quanlisinhvien\\QuanLiSinhVien.cs",
               "ToolTip": "C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\quanlisinhvien\\QuanLiSinhVien.cs",
               "RelativeToolTip": "quanlisinhvien\\QuanLiSinhVien.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwC8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T13:20:01.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\quanlisinhvien\\Form1.cs",
               "RelativeDocumentMoniker": "quanlisinhvien\\Form1.cs",
               "ToolTip": "C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\quanlisinhvien\\Form1.cs [Design]",
               "RelativeToolTip": "quanlisinhvien\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T06:29:19.571Z"
+              "WhenOpened": "2025-10-11T06:29:19.571Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -65,11 +66,12 @@
               "ToolTip": "C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\quanlisinhvien\\QuanLiSinhVien.cs [Design]",
               "RelativeToolTip": "quanlisinhvien\\QuanLiSinhVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T06:28:28.683Z"
+              "WhenOpened": "2025-10-11T06:28:28.683Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "QuanLi.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\quanlisinhvien\\QuanLi.cs",
               "RelativeDocumentMoniker": "quanlisinhvien\\QuanLi.cs",
