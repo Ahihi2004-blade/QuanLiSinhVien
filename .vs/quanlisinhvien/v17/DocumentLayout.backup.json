@@ -1,22 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\",
+  "WorkspaceRootPath": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|c:\\users\\asus\\documents\\quanlisinhvien\\quanlisinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|c:\\users\\phuong\\source\\repos\\quanlisinhvien\\quanlisinhvien\\quanlisinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\quanlisinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|c:\\users\\asus\\documents\\quanlisinhvien\\quanlisinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|c:\\users\\asus\\documents\\quanlisinhvien\\quanlisinhvien\\quanlisinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|c:\\users\\phuong\\source\\repos\\quanlisinhvien\\quanlisinhvien\\quanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\quanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\quanlisinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\quanlisinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|c:\\users\\asus\\documents\\quanlisinhvien\\quanlisinhvien\\quanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\quanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\quanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|c:\\users\\phuong\\source\\repos\\quanlisinhvien\\quanlisinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,41 +41,83 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\quanlisinhvien\\Form1.cs",
-              "RelativeDocumentMoniker": "quanlisinhvien\\Form1.cs",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\quanlisinhvien\\Form1.cs",
-              "RelativeToolTip": "quanlisinhvien\\Form1.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAnwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T06:29:22.619Z",
+              "DocumentIndex": 1,
+              "Title": ".gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\.gitignore.txt",
+              "RelativeDocumentMoniker": ".gitignore.txt",
+              "ToolTip": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\.gitignore.txt",
+              "RelativeToolTip": ".gitignore.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-19T14:13:32.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\quanlisinhvien\\Form1.cs",
-              "RelativeDocumentMoniker": "quanlisinhvien\\Form1.cs",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\quanlisinhvien\\Form1.cs [Design]",
-              "RelativeToolTip": "quanlisinhvien\\Form1.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "QuanLiSinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiSinhVien.cs",
+              "RelativeDocumentMoniker": "quanlisinhvien\\QuanLiSinhVien.cs",
+              "ToolTip": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiSinhVien.cs",
+              "RelativeToolTip": "quanlisinhvien\\QuanLiSinhVien.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowIoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T06:29:19.571Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-19T14:06:08.553Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "QuanLi.cs",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLi.cs",
+              "RelativeDocumentMoniker": "quanlisinhvien\\QuanLi.cs",
+              "ToolTip": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLi.cs",
+              "RelativeToolTip": "quanlisinhvien\\QuanLi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:05:52.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuanLi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLi.cs",
+              "RelativeDocumentMoniker": "quanlisinhvien\\QuanLi.cs",
+              "ToolTip": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLi.cs [Design]",
+              "RelativeToolTip": "quanlisinhvien\\QuanLi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T06:28:24.383Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "QuanLiSinhVien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\quanlisinhvien\\QuanLiSinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiSinhVien.cs",
               "RelativeDocumentMoniker": "quanlisinhvien\\QuanLiSinhVien.cs",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\quanlisinhvien\\QuanLiSinhVien.cs [Design]",
+              "ToolTip": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiSinhVien.cs [Design]",
               "RelativeToolTip": "quanlisinhvien\\QuanLiSinhVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-11T06:28:28.683Z",
@@ -71,15 +125,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "QuanLi.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\quanlisinhvien\\QuanLi.cs",
-              "RelativeDocumentMoniker": "quanlisinhvien\\QuanLi.cs",
-              "ToolTip": "C:\\Users\\Asus\\Documents\\QuanLiSinhVien\\quanlisinhvien\\QuanLi.cs [Design]",
-              "RelativeToolTip": "quanlisinhvien\\QuanLi.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Form1.cs",
+              "RelativeDocumentMoniker": "quanlisinhvien\\Form1.cs",
+              "ToolTip": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Form1.cs [Design]",
+              "RelativeToolTip": "quanlisinhvien\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T06:28:24.383Z",
+              "WhenOpened": "2025-10-11T06:29:19.571Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Form1.cs",
+              "RelativeDocumentMoniker": "quanlisinhvien\\Form1.cs",
+              "ToolTip": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Form1.cs",
+              "RelativeToolTip": "quanlisinhvien\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T06:29:22.619Z",
+              "EditorCaption": ""
             }
           ]
         }
