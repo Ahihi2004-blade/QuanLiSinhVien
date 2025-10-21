@@ -23,3 +23,17 @@ C:\Users\PHUONG\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhv
 C:\Users\PHUONG\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.csproj.CoreCompileInputs.cache
 C:\Users\PHUONG\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.exe
 C:\Users\PHUONG\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.pdb
+C:\Users\Tranv\source\repos\QuanLiSinhVien\quanlisinhvien\bin\Debug\quanlisinhvien.exe.config
+C:\Users\Tranv\source\repos\QuanLiSinhVien\quanlisinhvien\bin\Debug\quanlisinhvien.exe
+C:\Users\Tranv\source\repos\QuanLiSinhVien\quanlisinhvien\bin\Debug\quanlisinhvien.pdb
+C:\Users\Tranv\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.csproj.AssemblyReference.cache
+C:\Users\Tranv\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.exe.config
+C:\Users\Tranv\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.Form1.resources
+C:\Users\Tranv\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.Properties.Resources.resources
+C:\Users\Tranv\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.QuanLi.resources
+C:\Users\Tranv\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.QuanLiDiem.resources
+C:\Users\Tranv\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.QuanLiSinhVien.resources
+C:\Users\Tranv\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.csproj.GenerateResource.cache
+C:\Users\Tranv\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.csproj.CoreCompileInputs.cache
+C:\Users\Tranv\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.exe
+C:\Users\Tranv\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.pdb

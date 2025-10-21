@@ -22,5 +22,11 @@ namespace quanlisinhvien
             QuanLiSinhVien f = new QuanLiSinhVien();
             f.ShowDialog();
         }
+
+        private void btnquanlidiem_Click(object sender, EventArgs e)
+        {
+            QuanLiDiem f = new QuanLiDiem();
+            f.ShowDialog();
+        }
     }
 }
