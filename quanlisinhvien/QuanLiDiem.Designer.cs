@@ -28,19 +28,19 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(QuanLiDiem));
             System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
             System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(QuanLiDiem));
+            System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Series series4 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.label1 = new System.Windows.Forms.Label();
             this.cmbxephang = new System.Windows.Forms.ComboBox();
             this.button1 = new System.Windows.Forms.Button();
-            this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtSoTinChiDat = new System.Windows.Forms.TextBox();
+            this.txtSoTinChiTichLuy = new System.Windows.Forms.TextBox();
+            this.txtDiemTBTichLuy = new System.Windows.Forms.TextBox();
+            this.txtDiemTBHK = new System.Windows.Forms.TextBox();
             this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
@@ -50,9 +50,11 @@
             this.label3 = new System.Windows.Forms.Label();
             this.button5 = new System.Windows.Forms.Button();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.button6 = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
+            this.btnRefresh = new System.Windows.Forms.Button();
+            this.chartKetQua = new System.Windows.Forms.DataVisualization.Charting.Chart();
+            this.cmbHocKy = new System.Windows.Forms.ComboBox();
             this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.chartKetQua)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -82,28 +84,13 @@
             this.button1.Text = "Reset hồ sơ";
             this.button1.UseVisualStyleBackColor = true;
             // 
-            // chart1
-            // 
-            chartArea2.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea2);
-            legend2.Name = "Legend1";
-            this.chart1.Legends.Add(legend2);
-            this.chart1.Location = new System.Drawing.Point(154, 84);
-            this.chart1.Name = "chart1";
-            series2.ChartArea = "ChartArea1";
-            series2.Legend = "Legend1";
-            series2.Name = "Series1";
-            this.chart1.Series.Add(series2);
-            this.chart1.Size = new System.Drawing.Size(544, 223);
-            this.chart1.TabIndex = 3;
-            this.chart1.Text = "chart1";
-            // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.textBox4);
-            this.groupBox1.Controls.Add(this.textBox3);
-            this.groupBox1.Controls.Add(this.textBox2);
-            this.groupBox1.Controls.Add(this.textBox1);
+            this.groupBox1.Controls.Add(this.cmbHocKy);
+            this.groupBox1.Controls.Add(this.txtSoTinChiDat);
+            this.groupBox1.Controls.Add(this.txtSoTinChiTichLuy);
+            this.groupBox1.Controls.Add(this.txtDiemTBTichLuy);
+            this.groupBox1.Controls.Add(this.txtDiemTBHK);
             this.groupBox1.Controls.Add(this.button4);
             this.groupBox1.Controls.Add(this.button3);
             this.groupBox1.Controls.Add(this.button2);
@@ -118,33 +105,33 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Học kì ";
             // 
-            // textBox4
+            // txtSoTinChiDat
             // 
-            this.textBox4.Location = new System.Drawing.Point(637, 59);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(100, 22);
-            this.textBox4.TabIndex = 6;
+            this.txtSoTinChiDat.Location = new System.Drawing.Point(637, 59);
+            this.txtSoTinChiDat.Name = "txtSoTinChiDat";
+            this.txtSoTinChiDat.Size = new System.Drawing.Size(100, 22);
+            this.txtSoTinChiDat.TabIndex = 6;
             // 
-            // textBox3
+            // txtSoTinChiTichLuy
             // 
-            this.textBox3.Location = new System.Drawing.Point(637, 91);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 22);
-            this.textBox3.TabIndex = 6;
+            this.txtSoTinChiTichLuy.Location = new System.Drawing.Point(637, 91);
+            this.txtSoTinChiTichLuy.Name = "txtSoTinChiTichLuy";
+            this.txtSoTinChiTichLuy.Size = new System.Drawing.Size(100, 22);
+            this.txtSoTinChiTichLuy.TabIndex = 6;
             // 
-            // textBox2
+            // txtDiemTBTichLuy
             // 
-            this.textBox2.Location = new System.Drawing.Point(189, 85);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 22);
-            this.textBox2.TabIndex = 6;
+            this.txtDiemTBTichLuy.Location = new System.Drawing.Point(189, 85);
+            this.txtDiemTBTichLuy.Name = "txtDiemTBTichLuy";
+            this.txtDiemTBTichLuy.Size = new System.Drawing.Size(100, 22);
+            this.txtDiemTBTichLuy.TabIndex = 6;
             // 
-            // textBox1
+            // txtDiemTBHK
             // 
-            this.textBox1.Location = new System.Drawing.Point(189, 56);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 22);
-            this.textBox1.TabIndex = 6;
+            this.txtDiemTBHK.Location = new System.Drawing.Point(189, 56);
+            this.txtDiemTBHK.Name = "txtDiemTBHK";
+            this.txtDiemTBHK.Size = new System.Drawing.Size(100, 22);
+            this.txtDiemTBHK.TabIndex = 6;
             // 
             // button4
             // 
@@ -227,36 +214,82 @@
             this.comboBox2.TabIndex = 6;
             this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
             // 
-            // button6
+            // btnRefresh
             // 
-            this.button6.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button6.BackgroundImage")));
-            this.button6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button6.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.button6.Location = new System.Drawing.Point(140, 322);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(44, 40);
-            this.button6.TabIndex = 7;
-            this.button6.UseVisualStyleBackColor = true;
+            this.btnRefresh.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnRefresh.BackgroundImage")));
+            this.btnRefresh.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnRefresh.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.btnRefresh.Location = new System.Drawing.Point(140, 322);
+            this.btnRefresh.Name = "btnRefresh";
+            this.btnRefresh.Size = new System.Drawing.Size(44, 40);
+            this.btnRefresh.TabIndex = 7;
+            this.btnRefresh.UseVisualStyleBackColor = true;
+            this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
+            // 
+            // chartKetQua
+            // 
+            chartArea2.Name = "ChartArea1";
+            this.chartKetQua.ChartAreas.Add(chartArea2);
+            legend2.Enabled = false;
+            legend2.Name = "Legend1";
+            this.chartKetQua.Legends.Add(legend2);
+            this.chartKetQua.Location = new System.Drawing.Point(141, 107);
+            this.chartKetQua.Name = "chartKetQua";
+            series3.ChartArea = "ChartArea1";
+            series3.IsValueShownAsLabel = true;
+            series3.Legend = "Legend1";
+            series3.Name = "Điểm TB Học Kỳ";
+            series4.ChartArea = "ChartArea1";
+            series4.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series4.IsValueShownAsLabel = true;
+            series4.Legend = "Legend1";
+            series4.Name = "Điểm TB Tích Lũy";
+            series4.YAxisType = System.Windows.Forms.DataVisualization.Charting.AxisType.Secondary;
+            this.chartKetQua.Series.Add(series3);
+            this.chartKetQua.Series.Add(series4);
+            this.chartKetQua.Size = new System.Drawing.Size(583, 209);
+            this.chartKetQua.TabIndex = 8;
+            this.chartKetQua.Text = "chart1";
+            this.chartKetQua.Click += new System.EventHandler(this.chartKetQua_Click);
+            // 
+            // cmbHocKy
+            // 
+            this.cmbHocKy.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbHocKy.FormattingEnabled = true;
+            this.cmbHocKy.Items.AddRange(new object[] {
+            "HK1 23-24",
+            "HK2 23-24",
+            "HK3 23-24",
+            "HK1 24-25",
+            "HK2 24-25",
+            "HK3 24-25",
+            "HK1 25-26",
+            "HK2 25-26",
+            "HK3 25-26"});
+            this.cmbHocKy.Location = new System.Drawing.Point(30, 22);
+            this.cmbHocKy.Name = "cmbHocKy";
+            this.cmbHocKy.Size = new System.Drawing.Size(121, 24);
+            this.cmbHocKy.TabIndex = 7;
             // 
             // QuanLiDiem
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(857, 579);
-            this.Controls.Add(this.button6);
+            this.ClientSize = new System.Drawing.Size(859, 529);
+            this.Controls.Add(this.chartKetQua);
+            this.Controls.Add(this.btnRefresh);
             this.Controls.Add(this.comboBox2);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.groupBox1);
-            this.Controls.Add(this.chart1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.cmbxephang);
             this.Controls.Add(this.label1);
             this.Name = "QuanLiDiem";
             this.Text = "QuanLiDiem";
             this.Load += new System.EventHandler(this.QuanLiDiem_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.chart1)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.chartKetQua)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -267,7 +300,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ComboBox cmbxephang;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.DataVisualization.Charting.Chart chart1;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
@@ -277,11 +309,13 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtSoTinChiDat;
+        private System.Windows.Forms.TextBox txtSoTinChiTichLuy;
+        private System.Windows.Forms.TextBox txtDiemTBTichLuy;
+        private System.Windows.Forms.TextBox txtDiemTBHK;
         private System.Windows.Forms.ComboBox comboBox2;
-        private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button btnRefresh;
+        private System.Windows.Forms.DataVisualization.Charting.Chart chartKetQua;
+        private System.Windows.Forms.ComboBox cmbHocKy;
     }
 }
