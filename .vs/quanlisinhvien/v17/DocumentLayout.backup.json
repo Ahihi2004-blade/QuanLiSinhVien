@@ -1,42 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\",
+  "WorkspaceRootPath": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\quanlidiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|c:\\users\\phuong\\source\\repos\\quanlisinhvien\\quanlisinhvien\\quanlidiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\quanlidiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|c:\\users\\tranv\\source\\repos\\quanlisinhvien\\quanlisinhvien\\quanlidiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\quanlidiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|c:\\users\\phuong\\source\\repos\\quanlisinhvien\\quanlisinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\QuanLi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiSinhVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\QuanLiSinhVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\quanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\quanli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\quanlisinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\quanlisinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\QuanLiDiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 71,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLiDiem.cs",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs",
+              "RelativeDocumentMoniker": "quanlisinhvien\\QuanLiDiem.cs",
+              "ToolTip": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs",
+              "RelativeToolTip": "quanlisinhvien\\QuanLiDiem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T10:00:23.428Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Program.cs",
+              "RelativeDocumentMoniker": "quanlisinhvien\\Program.cs",
+              "ToolTip": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Program.cs",
+              "RelativeToolTip": "quanlisinhvien\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:14:39.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
@@ -66,122 +77,19 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Program.cs",
-              "RelativeDocumentMoniker": "quanlisinhvien\\Program.cs",
-              "ToolTip": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Program.cs",
-              "RelativeToolTip": "quanlisinhvien\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:00:47.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QuanLiDiem.cs",
-              "DocumentMoniker": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs",
-              "RelativeDocumentMoniker": "quanlisinhvien\\QuanLiDiem.cs",
-              "ToolTip": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs*",
-              "RelativeToolTip": "quanlisinhvien\\QuanLiDiem.cs*",
-              "ViewState": "AgIAACgAAAAAAAAAAAAqwDYAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:00:23.428Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "QuanLiDiem.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs",
+              "DocumentMoniker": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs",
               "RelativeDocumentMoniker": "quanlisinhvien\\QuanLiDiem.cs",
-              "ToolTip": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs [Design]*",
-              "RelativeToolTip": "quanlisinhvien\\QuanLiDiem.cs [Design]*",
+              "ToolTip": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs [Design]",
+              "RelativeToolTip": "quanlisinhvien\\QuanLiDiem.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T09:52:53.024Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "QuanLiSinhVien.cs",
-              "DocumentMoniker": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiSinhVien.cs",
-              "RelativeDocumentMoniker": "quanlisinhvien\\QuanLiSinhVien.cs",
-              "ToolTip": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiSinhVien.cs",
-              "RelativeToolTip": "quanlisinhvien\\QuanLiSinhVien.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwIsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:06:08.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "QuanLi.cs",
-              "DocumentMoniker": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLi.cs",
-              "RelativeDocumentMoniker": "quanlisinhvien\\QuanLi.cs",
-              "ToolTip": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLi.cs",
-              "RelativeToolTip": "quanlisinhvien\\QuanLi.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBwAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T14:05:52.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "QuanLi.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLi.cs",
-              "RelativeDocumentMoniker": "quanlisinhvien\\QuanLi.cs",
-              "ToolTip": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLi.cs [Design]",
-              "RelativeToolTip": "quanlisinhvien\\QuanLi.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T06:28:24.383Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "QuanLiSinhVien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiSinhVien.cs",
-              "RelativeDocumentMoniker": "quanlisinhvien\\QuanLiSinhVien.cs",
-              "ToolTip": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiSinhVien.cs [Design]",
-              "RelativeToolTip": "quanlisinhvien\\QuanLiSinhVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T06:28:28.683Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Form1.cs",
-              "RelativeDocumentMoniker": "quanlisinhvien\\Form1.cs",
-              "ToolTip": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Form1.cs [Design]",
-              "RelativeToolTip": "quanlisinhvien\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T06:29:19.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Form1.cs",
-              "RelativeDocumentMoniker": "quanlisinhvien\\Form1.cs",
-              "ToolTip": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Form1.cs",
-              "RelativeToolTip": "quanlisinhvien\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T06:29:22.619Z"
             }
           ]
         },

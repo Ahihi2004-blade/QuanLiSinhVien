@@ -37,3 +37,6 @@ C:\Users\Tranv\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvi
 C:\Users\Tranv\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.exe
 C:\Users\Tranv\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.pdb
 C:\Users\Tranv\Source\Repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.exe.config
+C:\Users\PHUONG\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.exe.config
+C:\Users\PHUONG\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.QuanLiDiem.resources
+C:\Users\PHUONG\source\repos\QuanLiSinhVien\quanlisinhvien\obj\Debug\quanlisinhvien.DiemRenLuyen.resources

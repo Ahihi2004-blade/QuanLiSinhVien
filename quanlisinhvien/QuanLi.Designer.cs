@@ -37,9 +37,9 @@
             // 
             // btnqlsv
             // 
-            this.btnqlsv.Location = new System.Drawing.Point(147, 200);
+            this.btnqlsv.Location = new System.Drawing.Point(139, 200);
             this.btnqlsv.Name = "btnqlsv";
-            this.btnqlsv.Size = new System.Drawing.Size(77, 68);
+            this.btnqlsv.Size = new System.Drawing.Size(85, 94);
             this.btnqlsv.TabIndex = 0;
             this.btnqlsv.Text = "Quản Lí Sinh VIên";
             this.btnqlsv.UseVisualStyleBackColor = true;
@@ -49,10 +49,11 @@
             // 
             this.button2.Location = new System.Drawing.Point(578, 198);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 70);
+            this.button2.Size = new System.Drawing.Size(94, 96);
             this.button2.TabIndex = 1;
             this.button2.Text = "Quản Lí Điểm Rèn Luyện";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // lblgdqlsv
             // 
@@ -67,9 +68,9 @@
             // 
             // btnquanlidiem
             // 
-            this.btnquanlidiem.Location = new System.Drawing.Point(357, 200);
+            this.btnquanlidiem.Location = new System.Drawing.Point(353, 200);
             this.btnquanlidiem.Name = "btnquanlidiem";
-            this.btnquanlidiem.Size = new System.Drawing.Size(75, 70);
+            this.btnquanlidiem.Size = new System.Drawing.Size(88, 94);
             this.btnquanlidiem.TabIndex = 3;
             this.btnquanlidiem.Text = "Quản Lí Điểm/GPA";
             this.btnquanlidiem.UseVisualStyleBackColor = true;

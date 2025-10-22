@@ -28,5 +28,11 @@ namespace quanlisinhvien
             QuanLiDiem f = new QuanLiDiem();
             f.ShowDialog();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            DiemRenLuyen frm = new DiemRenLuyen();
+            frm.Show();
+        }
     }
 }
