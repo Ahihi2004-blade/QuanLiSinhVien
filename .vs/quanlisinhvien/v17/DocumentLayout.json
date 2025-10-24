@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\",
+  "WorkspaceRootPath": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|c:\\users\\phuong\\source\\repos\\quanlisinhvien\\quanlisinhvien\\quanlidiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|c:\\users\\tranv\\source\\repos\\quanlisinhvien\\quanlisinhvien\\quanlidiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\quanlidiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|c:\\users\\phuong\\source\\repos\\quanlisinhvien\\quanlisinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9D9D47B-FBD1-44E9-90A3-8CDEC5D90C9B}|quanlisinhvien\\quanlisinhvien.csproj|solutionrelative:quanlisinhvien\\QuanLiDiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,42 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 71,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "QuanLiDiem.cs",
-              "DocumentMoniker": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs",
+              "DocumentMoniker": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs",
               "RelativeDocumentMoniker": "quanlisinhvien\\QuanLiDiem.cs",
-              "ToolTip": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs",
+              "ToolTip": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs",
               "RelativeToolTip": "quanlisinhvien\\QuanLiDiem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T10:00:23.428Z",
               "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Program.cs",
-              "RelativeDocumentMoniker": "quanlisinhvien\\Program.cs",
-              "ToolTip": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Program.cs",
-              "RelativeToolTip": "quanlisinhvien\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T14:14:39.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
@@ -77,15 +56,36 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Program.cs",
+              "RelativeDocumentMoniker": "quanlisinhvien\\Program.cs",
+              "ToolTip": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\Program.cs*",
+              "RelativeToolTip": "quanlisinhvien\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T14:14:39.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "QuanLiDiem.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs",
+              "DocumentMoniker": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs",
               "RelativeDocumentMoniker": "quanlisinhvien\\QuanLiDiem.cs",
-              "ToolTip": "C:\\Users\\PHUONG\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs [Design]",
+              "ToolTip": "C:\\Users\\Tranv\\source\\repos\\QuanLiSinhVien\\quanlisinhvien\\QuanLiDiem.cs [Design]",
               "RelativeToolTip": "quanlisinhvien\\QuanLiDiem.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T09:52:53.024Z",

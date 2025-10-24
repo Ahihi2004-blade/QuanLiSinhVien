@@ -1,16 +1,23 @@
-﻿using System;
+﻿using quanlisinhvien;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace QuanLiDiem
+namespace QuanLySinhVien
 {
-    public class MonHoc
+    static class Program
     {
-        public string TenMon { get; set; }
-        public double Diem { get; set; }
-        public int TinChi { get; set; }
-        public int HocKy { get; set; }
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+
+            Application.SetCompatibleTextRenderingDefault(false);
+
+          
+            Application.Run(new Form1());
+        }
     }
 }
+
